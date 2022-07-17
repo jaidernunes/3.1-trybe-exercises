@@ -1,10 +1,18 @@
-
-#top{
+body{
+    background-color: rgb(82, 183, 136);
+}
+#name{
     font-family: Roboto, sans-serif;
+    text-align: center;
 }
 #about{ 
     font-family: sans-serif;
 }
-body{
-    background-color: rgb(82, 183, 136);
+#picture{
+    float:left;
+    padding: 10px;
+    background-color: blue;
+}
+.header-container{
+    height: 290px;
 }
